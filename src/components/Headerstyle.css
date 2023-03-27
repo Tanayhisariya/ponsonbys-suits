@@ -1,0 +1,38 @@
+.navigation-suits{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation-suits li{
+    margin: 0px 40px;
+
+   
+}
+
+
+.navigation-suits li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.4rem;
+}
+
+.navigation-suits li a:hover{
+    text-decoration: underline;
+    text-decoration-color: Yellow;
+    text-decoration-thickness: 3px;
+}
+.mobile-suits{
+    list-style: none;
+}
+
+.mobile-suits li{
+    margin-top: 20px;
+}
+
+.mobile-suits li a{
+    text-decoration: none;
+    color: rgb(156, 32, 32);
+    font-size: 1.4rem;
+}
